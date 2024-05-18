@@ -1,0 +1,9 @@
+npm install reactstrap
+
+$ npm install reactstrap bootstrap
+
+npm install axios
+
+
+//django
+install djangorestframework django-cors-headers
